@@ -1,0 +1,54 @@
+h1 {
+    color:white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+#link {
+    color:aquamarine;
+    font-size: 16px;
+    text-align: center;
+    font-family: Verdana;
+    display: block;
+}
+
+#video {
+    display: block;
+    margin: 0 auto;
+}
+
+#landscape {
+    display: block;
+    margin: 0 auto;
+}
+
+#phone {
+    display: block;
+    margin: 30px auto;
+}
+
+h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    font-weight: 100;
+}
+
+h4 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+    font-weight: 100;
+}
